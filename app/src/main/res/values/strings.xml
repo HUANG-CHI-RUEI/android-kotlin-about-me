@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ray Huang</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hey! My name is Ray Huang.
+    \n\n I love lizard.
+    \n\n 我養了兩隻豹紋守宮
+    \n\n 我的職業是軟體工程師
+    \n\n 我下班都會去健身房
+    \n\n 愛吃美食 邊吃邊練
+    \n\n 每天會規畫時間自學寫程式
+     \n\n 也會背英文單字 五月底準備考多益
+    \n\n 也在自學Kotlin 自學Android
+    \n\n Nice to meet u!
+    \n\n 現在正在練習Lesson 3 Layout
+        \n\n 製作自我介紹的APP
+        \n\n 同時可以滑動資訊欄位
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
