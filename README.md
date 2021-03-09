@@ -1,6 +1,6 @@
 # Layouts - AboutMe app
 
-實作練習 這是udacity android lesson 2實作練習 ㄇ
+實作練習 這是udacity android lesson 2 實作練習
 
 ## AboutMe
 
@@ -20,7 +20,9 @@ This app demonstrates the following views and techniques:
 * Using data binding for views to improve perforkance and eliminate findViewById
 
 ## Screenshots
-
+![Screenshot1](screenshot/1,png.JPG)
+![Screenshot2](screenshot/2.PNG)
+![Screenshot3](screenshot/3.PNG)
 
 
 
