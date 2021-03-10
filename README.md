@@ -20,8 +20,7 @@ This app demonstrates the following views and techniques:
 * Using data binding for views to improve perforkance and eliminate findViewById
 
 ## Screenshots
-![Screenshot1](screenshot/1,png.JPG)
-![Screenshot2](screenshot/2.PNG)
+![Screenshot1](screenshot/1,png.JPG)![Screenshot2](screenshot/2.PNG)
 ![Screenshot3](screenshot/3.PNG)
 
 
